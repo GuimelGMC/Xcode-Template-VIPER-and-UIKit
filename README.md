@@ -1,4 +1,4 @@
-# Template_VIPER
+# Xcode Template using VIPER architecture 
 
 Instrucciones para instalación de template:
 
@@ -11,9 +11,3 @@ Instrucciones para instalación de template:
 Reinicia tu Xcode y vuelva a ejutarlo, agrega un New File y busca el template de VIPER.
 
 *NOTA*: el módulo se agregará en carpetas azules, eliminalo solo borrando la referencia y agregalo nuevamente con Add Files para que este como grupos.
-
-Nice to have:
-
-- Script para instalación automática
-- Configuración para que se agregue como grupos en Xcode
-- Creación de archivo XIB.
